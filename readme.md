@@ -23,3 +23,4 @@ npm start
 
 - version: 1.0.0
 - Licence: MIT
+- Author: Awais Farooqui
